@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as a user i want to evaluate the quality of the jobs section of the Choucair website, in" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-26T03:17:36" hostname="DESKTOP-0D4LORN" time="18.095">
+  <properties/>
+  <testcase name="Interact on the services section of the Choucair website" classname="I as a user i want to evaluate the quality of the jobs section of the Choucair website, in" time="18.071"/>
+  <testcase name="Search a job and register the required data on the jobs section of the Choucair website" classname="I as a user i want to evaluate the quality of the jobs section of the Choucair website, in" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[nov 25, 2019 10:17:36 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 28961
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+nov 25, 2019 10:17:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Interact on the services section of the Choucair website
+----------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search a job and register the required data on the jobs section of the Choucair website
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
